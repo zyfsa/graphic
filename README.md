@@ -1,5 +1,7 @@
 # graphic
 this is a graphic homework,maybe you need
+
+
 这个目录下有两个文件夹，一个word，一个read me.
 其中:
     graphic文件夹为源程序，需要把它拷出来，用Qt creator打开（我的是qt creator 5.7），路径名不要有中文。
